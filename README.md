@@ -6,3 +6,30 @@ Ce projet, mené en collaboration par Kessang Flamand et moi même (Mathieu Garr
 Afin de mener à bien ce projet, nous utiliserons le contenu des séances de travaux dirigés de Kim Antunez, basées sur le cours disponible en ligne de Lino Galiana, Python pour le Data Scientist.
 
 Ce répertoire, et particulièrement ce texte, constitue le premier pas de ce projet.
+
+Etude menée sur l'année 2017
+
+Grandes parties du projet :
+
+- Récupération des données et nettoyage et mise en forme (via API) 
+- Croiser des bases de données directement via les API 
+- Statistiques descriptives (affichage sur une carte) pour déterminer les facteurs principaux de satisfaction
+- ACP pour les différents paramètres de satisfaction (indicatrices pour les catégories)
+
+Variable observée : Satisfaction globale
+Variables explicatives : 
+- Répartition des modes d'accès (rabattement et diffusion) à la gare (Enquêtes en gare)
+- Répartition des motifs de déplacements des voyageurs et non voyageurs (Enquêtes en gare)
+- (Répartition des clients par distance parcourue (Enquête en gare) )
+- Répartition des clients par fréquence en gare (Enquête en gare)
+- Répartition des clients selon l'intermodalité (Enquête en gare)
+- Répartition des clients par motif de déplacement (Enquête en gare)
+- (Tarifs TGV par trajet)
+- Répartition des distances d’accès à la gare (Enquêtes en gare)
+- Gares équipées du wifi
+- Travaux dans les grandes gares
+- Répartition des partants par plage de temps de précaution (Enquêtes en gare)
+- Répartition des clients par type (Enquêtes en gare
+- Répartition des clients par catégorie socio-professionnelle (Enquêtes en gare)
+- Répartition des clients par âge (Enquêtes en gare)
+- Répartition des clients par genre (Enquêtes en gare)
