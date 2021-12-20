@@ -24,12 +24,28 @@ Variables explicatives :
 - Répartition des clients par fréquence en gare (Enquête en gare)
 - Répartition des clients selon l'intermodalité (Enquête en gare)
 - Répartition des clients par motif de déplacement (Enquête en gare)
-- (Tarifs TGV par trajet)
-- Répartition des distances d’accès à la gare (Enquêtes en gare)
 - Gares équipées du wifi
 - Travaux dans les grandes gares
 - Répartition des partants par plage de temps de précaution (Enquêtes en gare)
-- Répartition des clients par type (Enquêtes en gare
+- Répartition des clients par type (Enquêtes en gare)
 - Répartition des clients par catégorie socio-professionnelle (Enquêtes en gare)
 - Répartition des clients par âge (Enquêtes en gare)
 - Répartition des clients par genre (Enquêtes en gare)
+
+Répartitions des bases de données par type de données exploitables :
+- Données catégorielles à transformer en dummy variables :
+    - Répartition des modes d'accès (rabattement et diffusion) à la gare (Enquêtes en gare)
+    - Répartition des motifs de déplacements des voyageurs et non voyageurs (Enquêtes en gare)
+    - Répartition des clients selon l'intermodalité (Enquête en gare)
+    - Répartition des clients par motif de déplacement (Enquête en gare)
+    - Répartition des clients par catégorie socio-professionnelle (Enquêtes en gare)
+    
+- Données catégorielles binaires :
+    - Gares équipées du wifi
+    - Travaux dans les grandes gares
+    - Répartition des clients par genre (Enquêtes en gare)
+    
+- Données transformables en données quantitatives (attribution de la valeur moyenne à la catégorie) :
+    - Répartition des clients par fréquence en gare (Enquête en gare)
+    - Répartition des partants par plage de temps de précaution (Enquêtes en gare)
+    - Répartition des clients par âge (Enquêtes en gare)
