@@ -49,3 +49,10 @@ Répartitions des bases de données par type de données exploitables :
     - Répartition des clients par fréquence en gare (Enquête en gare)
     - Répartition des partants par plage de temps de précaution (Enquêtes en gare)
     - Répartition des clients par âge (Enquêtes en gare)
+
+
+A faire : 
+- Graphes fréquentation des gares + évolution temporelles
+- Statistiques descriptives des gares
+- Commenter ACP
+- Mise en page Notebook
