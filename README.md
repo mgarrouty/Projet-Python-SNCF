@@ -1,7 +1,7 @@
 ## I - Récupération des données
 Nous travaillons sur les données publiques de la SNCF, accessibles depuis le site : https://ressources.data.sncf.com/pages/accueil/ :
 
-<img src ="https://user-images.githubusercontent.com/91116132/148348116-2c126d62-de31-4012-a2bb-b204709f8ea0.png" width="80%"></img>
+<p align="center"><img src ="https://user-images.githubusercontent.com/91116132/148348116-2c126d62-de31-4012-a2bb-b204709f8ea0.png" width="80%"></img></p>
 
 La SNCF y rend publique plus de 200 jeux de données relatifs au réseau ferroviaire, auquel nous accédons grâce à l'API également mise à disposition par la SNCF (dans notre notebook Récupération des données).
 
