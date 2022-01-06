@@ -1,5 +1,5 @@
-## Récupération des données
-
+## I - Récupération des données
+Nous travaillons sur les données publiques de la SNCF, accessibles depuis le site : https://ressources.data.sncf.com/pages/accueil/ . 
 
 Le répertoire est constitué comme suit :
 
