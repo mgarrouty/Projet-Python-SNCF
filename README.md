@@ -6,8 +6,12 @@ Nous travaillons sur les données publiques de la SNCF, accessibles depuis le si
 La SNCF y rend publique plus de 200 jeux de données relatifs au réseau ferroviaire, auquel nous accédons grâce à l'API également mise à disposition par la SNCF (dans notre notebook Récupération des données).
 
 ## II - Manipulation des données
-Une fois les données récupérées, nous les avons nettoyées (gestion des NAs, des enquêtes doublons, des codes de gares différents, etc..), puis nous avons constitué notre base principale de travail, regroupant les données relatives à chaque gare.
+Une fois les données récupérées, nous les avons nettoyées (gestion des NAs, des enquêtes doublons, des codes de gares différents, etc..), puis nous avons constitué notre base principale de travail, regroupant les données relatives à chaque gare. Voici un aperçu de notre base de donnée finale :
 
+<img src =https://user-images.githubusercontent.com/91116132/148350041-f66a0500-1995-4898-8903-1e7f7c63f7c1.png" width="100%"></img>
+                                                                                                                             
+## III - Visualiser les données
+Afin d'avoir un aperçu globale des données, nous avons d'abord procédé à des visualisations de statistiques descriptives, à l'aide des outils utilisées en TD, notamment la bibliothèque seaborn.                                                                                                   
 Le répertoire est constitué comme suit :
 
 - Un fichier texte expliquant l'objectif de notre projet
