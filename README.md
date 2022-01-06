@@ -8,17 +8,17 @@ La SNCF y rend publique plus de 200 jeux de données relatifs au réseau ferrovi
 ## II - Manipulation des données
 Une fois les données récupérées, nous les avons nettoyées (gestion des NAs, des enquêtes doublons, des codes de gares différents, etc..), puis nous avons constitué notre base principale de travail, regroupant les données relatives à chaque gare. Voici un aperçu de notre base de donnée finale :
 
-<img src =https://user-images.githubusercontent.com/91116132/148350041-f66a0500-1995-4898-8903-1e7f7c63f7c1.png" width="100%"></img>
+<img src ="https://user-images.githubusercontent.com/91116132/148350041-f66a0500-1995-4898-8903-1e7f7c63f7c1.png" width="100%"></img>
                                                                                                                              
 ## III - Visualiser les données
 Afin d'avoir un aperçu globale des données, nous avons d'abord procédé à des visualisations de statistiques descriptives, à l'aide des outils utilisées en TD, notamment geopandas pour les données géographiques :
                                                                                                       
 <img src ="https://user-images.githubusercontent.com/91116132/148350674-795d7c24-1a48-42e8-bede-4e6af699267a.png" width="100%"></img>
 
-## IV Modéliser les données
+## IV - Modéliser les données
 Dans le but d'étudier les déterminants de la satisfaction en gare, nous avons utiliser différents modèles sur nos données : des régressions linéaires, des ACP et un cercle des corrélation appliquées aux différentes composantes de la satisfaction.
                                                                                                                               
-##V Constitution du répertoire
+## V - Constitution du répertoire
 Le répertoire est constitué comme suit :
 
 - Un fichier texte expliquant l'objectif de notre projet
