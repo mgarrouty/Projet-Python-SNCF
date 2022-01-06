@@ -13,7 +13,7 @@ Une fois les données récupérées, nous les avons nettoyées (gestion des NAs,
 ## III - Visualiser les données
 Afin d'avoir un aperçu globale des données, nous avons d'abord procédé à des visualisations de statistiques descriptives, à l'aide des outils utilisées en TD, notamment geopandas pour les données géographiques :
                                                                                                       
-<img src ="https://user-images.githubusercontent.com/91116132/148350674-795d7c24-1a48-42e8-bede-4e6af699267a.png" width="50%"  align="center"></img>
+<p align="center"><img src ="https://user-images.githubusercontent.com/91116132/148350674-795d7c24-1a48-42e8-bede-4e6af699267a.png" width="50%" ></img></p>
 
 ## IV - Modéliser les données
 Dans le but d'étudier les déterminants de la satisfaction en gare, nous avons utiliser différents modèles sur nos données : des régressions linéaires, des ACP et un cercle des corrélation appliquées aux différentes composantes de la satisfaction.
